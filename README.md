@@ -180,4 +180,5 @@ Future work could improve robustness through adaptive thresholds, a learned term
 - [Hugging Face LeRobot](https://github.com/huggingface/lerobot)
 - [ROBOTIS OpenManipulator](https://github.com/ROBOTIS-GIT/open_manipulator)
 
+This version was pulled from a delayed version, currently working on updates in another branch.
 
