@@ -1,5 +1,5 @@
 # 🤖 Vision-Based Towel Folding Robot with Imitation Learning
-
+Note: This version was pulled from a delayed branch for visibiity reasons; updates are currently in progress on a separate branch
 **A vision-based robotic system for towel flattening and folding**  
 **Two-Stage Imitation Learning + Tunable Terminal Condition Classification (TTCC)**
 
@@ -180,5 +180,4 @@ Future work could improve robustness through adaptive thresholds, a learned term
 - [Hugging Face LeRobot](https://github.com/huggingface/lerobot)
 - [ROBOTIS OpenManipulator](https://github.com/ROBOTIS-GIT/open_manipulator)
 
-This version was pulled from a delayed version, currently working on updates in another branch.
 
